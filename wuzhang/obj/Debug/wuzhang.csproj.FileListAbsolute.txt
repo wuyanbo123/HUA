@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\wuzhang\wuzhang\bin\Debug\wuzhang.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\wuzhang\wuzhang\bin\Debug\wuzhang.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\wuzhang\wuzhang\bin\Debug\wuzhang.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\wuzhang\wuzhang\obj\Debug\wuzhang.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2012\Projects\wuzhang\wuzhang\obj\Debug\wuzhang.Form1.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\wuzhang\wuzhang\obj\Debug\wuzhang.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\wuzhang\wuzhang\obj\Debug\wuzhang.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2012\Projects\wuzhang\wuzhang\obj\Debug\wuzhang.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\wuzhang\wuzhang\obj\Debug\wuzhang.pdb

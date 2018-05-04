@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\yuangonghuijia\yuangonghuijia\bin\Debug\yuangonghuijia.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\yuangonghuijia\yuangonghuijia\bin\Debug\yuangonghuijia.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\yuangonghuijia\yuangonghuijia\bin\Debug\yuangonghuijia.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\yuangonghuijia\yuangonghuijia\obj\Debug\yuangonghuijia.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2012\Projects\yuangonghuijia\yuangonghuijia\obj\Debug\yuangonghuijia.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\yuangonghuijia\yuangonghuijia\obj\Debug\yuangonghuijia.pdb

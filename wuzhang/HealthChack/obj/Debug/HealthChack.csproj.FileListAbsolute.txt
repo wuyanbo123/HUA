@@ -1,0 +1,9 @@
+C:\Users\lenovo\documents\visual studio 2012\Projects\wuzhang\HealthChack\bin\Debug\HealthChack.exe.config
+C:\Users\lenovo\documents\visual studio 2012\Projects\wuzhang\HealthChack\obj\Debug\HealthChack.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\documents\visual studio 2012\Projects\wuzhang\HealthChack\obj\Debug\HealthChack.frmMain.resources
+C:\Users\lenovo\documents\visual studio 2012\Projects\wuzhang\HealthChack\obj\Debug\HealthChack.Properties.Resources.resources
+C:\Users\lenovo\documents\visual studio 2012\Projects\wuzhang\HealthChack\obj\Debug\HealthChack.csproj.GenerateResource.Cache
+C:\Users\lenovo\documents\visual studio 2012\Projects\wuzhang\HealthChack\bin\Debug\HealthChack.exe
+C:\Users\lenovo\documents\visual studio 2012\Projects\wuzhang\HealthChack\bin\Debug\HealthChack.pdb
+C:\Users\lenovo\documents\visual studio 2012\Projects\wuzhang\HealthChack\obj\Debug\HealthChack.exe
+C:\Users\lenovo\documents\visual studio 2012\Projects\wuzhang\HealthChack\obj\Debug\HealthChack.pdb

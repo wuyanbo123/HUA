@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\qichezuping1\qichezuping1\bin\Debug\qichezuping1.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\qichezuping1\qichezuping1\obj\Debug\qichezuping1.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2012\Projects\qichezuping1\qichezuping1\obj\Debug\qichezuping1.Form1.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\qichezuping1\qichezuping1\obj\Debug\qichezuping1.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\qichezuping1\qichezuping1\obj\Debug\qichezuping1.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2012\Projects\qichezuping1\qichezuping1\bin\Debug\qichezuping1.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\qichezuping1\qichezuping1\bin\Debug\qichezuping1.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\qichezuping1\qichezuping1\obj\Debug\qichezuping1.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\qichezuping1\qichezuping1\obj\Debug\qichezuping1.pdb
